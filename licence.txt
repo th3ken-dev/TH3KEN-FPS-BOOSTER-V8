@@ -1,0 +1,21 @@
+MIT Lisansı
+
+Copyright (c) 2018 TH3KEN ve katkıda bulunanlar
+
+Bir kopyasını alan herhangi bir kişiye, ücretsiz olarak izin verilir.
+Bu yazılımın ve ilişkili dokümantasyon dosyalarının ("Yazılım")
+Sınırlama olmaksızın Yazılımda sınırlama olmaksızın hakları
+kullanmak, kopyalamak, değiştirmek, birleştirmek, yayınlamak, dağıtmak, alt lisans vermek ve / veya satmak
+Yazılımın kopyaları ve Yazılımın kime ait olduğuna izin vermek
+aşağıdaki koşullara tabi olarak, bunu yapmak için döşenmiştir:
+
+Yukarıdaki telif hakkı bildirimi ve bu izin bildirimi
+Yazılımın tüm kopyaları veya önemli bölümleri.
+
+YAZILIM "OLDUĞU GİBİ" SAĞLANMAKTADIR, HERHANGİ BİR GARANTİ OLMAKSIZIN, AÇIK VEYA
+SATILABİLİRLİK GARANTİLERİ DAHİL ANCAK BUNLARLA SINIRLI OLMAMAK ÜZERE, DAHİL OLMAK ÜZERE,
+BELİRLİ BİR AMACA UYGUNLUK VE HAK İHLALİ İÇİN FİTNESS. HİÇBİR DURUMDA
+YAZARLAR VEYA TELİF HAKKI SAHİPLERİ, HERHANGİ BİR İDDİA, ZARARLAR VEYA DİĞER SORUMLULUKLARDAN SORUMLU DEĞİLDİR
+SÖZLEŞME, TARAFIN YA DA BAŞKA BİR ŞEKİLDE MÜDAHALE
+YAZILIM VEYA KULLANIM VEYA DİĞER
+YAZILIM.
