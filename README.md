@@ -1,9 +1,10 @@
                                                Hata ( Error )
+                                               
 ========================================================= 
 Hatalar ; 0x4 Hatasi Internet Yok
 Hatalar ; Ping'iniz Yüksekse 0x4 Hatası Verebilir !
 ========================================================= 
-                                            Güvenlik ( Security )
+                                            Güvenlik ( Security )                            
 ========================================================= 
 SHA-256	c8b35acb9c9d9e899306e4ab75103b9a6276cca85cbcbbc65852b86845ca500c
 MD5	8ca6bee082aac6b5ee5564996e4219c1
